@@ -1,0 +1,10 @@
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\bin\Debug\C#ToJSON.exe.config
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\bin\Debug\C#ToJSON.exe
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\bin\Debug\C#ToJSON.pdb
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\obj\Debug\C#ToJSON.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\obj\Debug\C#ToJSON.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\obj\Debug\C#ToJSON.csproj.Up2Date
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\obj\Debug\C#ToJSON.exe
+C:\Users\Prave\source\repos\C#ToJSON\C#ToJSON\obj\Debug\C#ToJSON.pdb
